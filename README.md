@@ -20,3 +20,7 @@ The results of the analysis can be seen [here](https://public.tableau.com/app/pr
 
 
 ![Checkout times by users](https://github.com/fouadZiaa/bikeSharing/blob/b38c96f1dddf2d0db9ed2b5d82412c952562cf21/Images/Chekout%20Time%20By%20Gender.png)
+
+![Trips by Weekday for each hour](https://github.com/fouadZiaa/bikeSharing/blob/8cfcecc37f6a4a1e5d9a5c17c83e65abaf4277a9/Images/Trips%20by%20Weekday%20(4).png)
+
+![User trips by Gender by Weekday](
