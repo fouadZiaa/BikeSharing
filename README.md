@@ -27,4 +27,6 @@ The results of the analysis can be seen [here](https://public.tableau.com/app/pr
 
 ![Bike Utilization](https://github.com/fouadZiaa/bikeSharing/blob/9246ada469601b053cdb29b7e38db6910d4cce44/Images/Bike%20Repairs.png)
 
+![Checkout Durations](https://github.com/fouadZiaa/bikeSharing/blob/2a60647edf1b8ee8405104820684b82097b0dbdf/Images/Checkout%20Durations.png)
+
 
