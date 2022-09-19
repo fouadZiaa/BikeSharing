@@ -39,6 +39,6 @@ Looking at these two visualizations for **Checkout Times for Users** and **Check
 **Trips By Gender by Weekday** heatmap tells us that useage pattern is true regardless of gender. Case in point that total number of males is on the higher end.
 
 ## Summary
-
+The reults of this anaysis provide the investor with valuable insight into the utilization of bikes in the NYC Citibike bike-sharing program. Patterns of useage by males and females, most popular origins and destinations, and the heavy use during morning and evening commute hours. Some of the more in depth analysis can include observing the routes which have the most heavy use and low use bikes so they can be swapped frequently. It would be interesting to know if there are any locations that have no bike useage at all. Since most trips lasted under half an hour, it would also be useful to compare the shorter trips and observe the pattersn related to them.
 
 
