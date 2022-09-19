@@ -15,4 +15,4 @@ Tableau, Python, Jupyter Notebook, Pandas Library
 ## Results
 The results of the analysis can be seen [here](https://public.tableau.com/app/profile/fuad6187/viz/NYCitiBikeRiderandBikeData/FinalStory).
 
-![Top Starting Locations](bikeSharing/images/Top Origins.png)
+![Top Starting Locations](https://github.com/fouadZiaa/bikeSharing/blob/a1555e84f5b35c4b5fae09017d049c9126e1cf2b/Images/Top%20Origins.png)
