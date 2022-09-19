@@ -16,3 +16,7 @@ Tableau, Python, Jupyter Notebook, Pandas Library
 The results of the analysis can be seen [here](https://public.tableau.com/app/profile/fuad6187/viz/NYCitiBikeRiderandBikeData/FinalStory).
 
 ![Top Starting Locations](https://github.com/fouadZiaa/bikeSharing/blob/a1555e84f5b35c4b5fae09017d049c9126e1cf2b/Images/Top%20Origins.png)
+
+
+
+![Checkout times by users](https://github.com/fouadZiaa/bikeSharing/blob/b38c96f1dddf2d0db9ed2b5d82412c952562cf21/Images/Chekout%20Time%20By%20Gender.png)
