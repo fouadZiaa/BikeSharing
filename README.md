@@ -25,4 +25,6 @@ The results of the analysis can be seen [here](https://public.tableau.com/app/pr
 
 ![User trips by Gender by Weekday](https://github.com/fouadZiaa/bikeSharing/blob/105f88aa47f60518d0149c032e4159e8ed961b21/Images/User%20trips%20by%20Gender.png)
 
-![Bike Utilization](
+![Bike Utilization](https://github.com/fouadZiaa/bikeSharing/blob/9246ada469601b053cdb29b7e38db6910d4cce44/Images/Bike%20Repairs.png)
+
+
