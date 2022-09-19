@@ -26,7 +26,7 @@ Looking at these two visualizations for **Checkout Times for Users** and **Check
 
 
 ![Trips by Weekday for each hour](https://github.com/fouadZiaa/bikeSharing/blob/8cfcecc37f6a4a1e5d9a5c17c83e65abaf4277a9/Images/Trips%20by%20Weekday%20(4).png)
-**Trips By Weekday per Hour** are shown in the heatmap above. A clear pattern can be observed that moring and evening commutes except wednesdays are the heavy use windows as well as long weekends. 
+**Trips By Weekday per Hour** are shown in the heatmap above. A clear pattern can be observed that moring and evening commutes except wednesdays are the heavy use windows. 
 
 ![User trips by Gender by Weekday](https://github.com/fouadZiaa/bikeSharing/blob/105f88aa47f60518d0149c032e4159e8ed961b21/Images/User%20trips%20by%20Gender.png)
 **User Trips by Gender by Weekday** heatmap tells us that subscribers are mostly male and account for the bulk of the weekday trips. Often times customers' genders are unknown and weekend trips are evenly split between customers and subscribers.
