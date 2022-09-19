@@ -26,14 +26,19 @@ Looking at these two visualizations for **Checkout Times for Users** and **Check
 
 
 ![Trips by Weekday for each hour](https://github.com/fouadZiaa/bikeSharing/blob/8cfcecc37f6a4a1e5d9a5c17c83e65abaf4277a9/Images/Trips%20by%20Weekday%20(4).png)
+**Trips By Weekday per Hour** are shown in the heatmap above. A clear pattern can be observed that moring and evening commutes except wednesdays are the heavy use windows as well as long weekends. 
 
 ![User trips by Gender by Weekday](https://github.com/fouadZiaa/bikeSharing/blob/105f88aa47f60518d0149c032e4159e8ed961b21/Images/User%20trips%20by%20Gender.png)
+**User Trips by Gender by Weekday** heatmap tells us that subscribers are mostly male and account for the bulk of the weekday trips. Often times customers' genders are unknown and weekend trips are evenly split between customers and subscribers.
 
 ![Bike Utilization](https://github.com/fouadZiaa/bikeSharing/blob/9246ada469601b053cdb29b7e38db6910d4cce44/Images/Bike%20Repairs.png)
-
+**Bike Utilization and Repairs** chart shows which bikes are more heavily used and the number of hours they are in service and which ones get used less frequently. This can help in rotating bikes from heavy to light usage and keep the maintenance costs low.
 
 
 ![Trips by Gender](https://github.com/fouadZiaa/bikeSharing/blob/bce5b89e6b095b6223da2f8a012ef7b9e6a58071/Images/Trips%20by%20Gender.png)
+**Trips By Gender by Weekday** heatmap tells us that useage pattern is true regardless of gender. Case in point that total number of males is on the higher end.
+
+## Summary
 
 
 
